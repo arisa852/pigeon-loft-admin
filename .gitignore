@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Vite / Vue 專案的暫存檔
+dist/
+dist-ssr/
+*.local
+
+# IDE / 編輯器相關
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 環境變數檔案 (不要上傳到 GitHub)
+.env
+.env.local
+.env.*.local
